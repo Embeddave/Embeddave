@@ -1,2 +1,4 @@
 # About
-https://youtu.be/LUk73pUe9i4
+Machine Intelligence Engineer at Embedded Intelligence
+
+Personal site: https://nicholdav.info/
